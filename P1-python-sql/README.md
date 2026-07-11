@@ -1,5 +1,5 @@
-# E-commerce Transactions: Data Cleaning and EDA (SQL + Python)
-
+# Data Cleaning and EDA (SQL + Python)
+**E-commerce Transactions**
 
 > Turning a raw, real-world transactional dataset (541,909 rows of UK online retail sales, Dec 2010 to Dec 2011) into a structured, analysis-ready dataset and uncovering patterns and trends through exploratory data analysis.
 
@@ -23,7 +23,7 @@ To clean, validate, and explore a raw dataset. Raw data rarely comes with a rule
 
 ## Dataset
 
-Raw Dataset: [Online Retail dataset (UCI/Kaggle)](https://www.kaggle.com/datasets/vijayuv/onlineretail)   
+Raw Dataset: [E-commerce Transactions Dataset (Kaggle)](https://www.kaggle.com/datasets/vijayuv/onlineretail)   
 
 - 541,909 rows, 8 columns
 - One row per product line, per invoice
